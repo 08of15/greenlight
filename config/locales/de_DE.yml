@@ -229,7 +229,7 @@ de_DE:
     designs: Eigene Designs
     authentication: Nutzerauthentifizierung
   footer:
-    powered_by: "Bereitgestellt durch %{href}."
+    powered_by: "Diese Platform basiert auf dem quelloffenen BigBlueButton Webkonferenzserver bereitgestellt durch %{href} als Frontend."
   forgot_password:
     subtitle: Passwort vergessen
     email: E-Mail
@@ -259,8 +259,8 @@ de_DE:
     search:
       start: Beginne die Suche...
   landing:
-    about: "%{href} ist ein einfacher Frontend für Ihren quelloffenen BigBlueButton Webkonferenzserver. Sie können ihre eigenen Räume erstellen, um Konferenzen abzuhalten oder Sie können bestehenden Konferenzen über einen praktischen Kurzlink beitreten."
-    welcome: Willkommen zu BigBlueButton.
+    about: "Zur Beratung zu unseren Produkten und für Fragen, die sich einmal nicht telefonisch klären lassen, haben wir diese Plattform eingerichtet. Melden Sie sich bei uns und wir bereiten einen virtuellen Raum vor, den wir Ihnen für die gemeinsame Besprechung dann per E-Mail zusenden."
+    welcome: Willkommen bei den virtuellen Konferenzräumen der Firma TSO Thalheim Spezialoptik GmbH.
     video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
